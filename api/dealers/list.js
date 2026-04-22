@@ -44,7 +44,7 @@ export default function handler(req, res) {
             "address2": "KALUBOWILA",
             "isVatRegistered": "N",
             "vatRegNo": "",
-            "usableAmount": "5000"
+            "usableAmount": "500.00"
         },
     ],
     "errors": null
