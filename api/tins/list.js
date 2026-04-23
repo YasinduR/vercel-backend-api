@@ -12,7 +12,7 @@ export default function handler(req, res) {
         totalTaxes: 786,
         totalValue: 5152,
         payOnDelivery: "N",
-        incentiveStatus: "N",
+        incentiveStatus: "A",
         customerRefNo: "SDCVGF",
         dealer: "AC2005033754",
         distributorCode: "AC2005033754",
