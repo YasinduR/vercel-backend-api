@@ -83,6 +83,7 @@ export default function handler(req, res) {
     const screens = new Set();
     if (roles.includes('TempCustomer')) {
       screens.add('INVOICE');
+      screens.add('ROUTE');
       screens.add('RECEIPT');
     }
     if (roles.includes('Employee')) {
